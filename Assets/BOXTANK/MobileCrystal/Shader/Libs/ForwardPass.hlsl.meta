@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cc109af1270cb324d91968a00dde4df5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324385
+  packageName: Mobile Crystal Shader
+  packageVersion: 1.0
+  assetPath: Assets/BOXTANK/MobileCrystal/Shader/Libs/ForwardPass.hlsl
+  uploadId: 769573

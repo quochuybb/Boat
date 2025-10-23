@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c5e640eda1b14240b857a2755485ceb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324385
+  packageName: Mobile Crystal Shader
+  packageVersion: 1.0
+  assetPath: Assets/BOXTANK/MobileCrystal/Examples/Res/Mat_Crystal03.mat
+  uploadId: 769573

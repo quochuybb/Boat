@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1635d889b96e78f438d29e9258c08e93
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324385
+  packageName: Mobile Crystal Shader
+  packageVersion: 1.0
+  assetPath: Assets/BOXTANK/MobileCrystal/Examples/Res/Global Volume Profile.asset
+  uploadId: 769573
